@@ -1,4 +1,3 @@
-// Minimal lightbox modal (few lines)
 document.addEventListener('DOMContentLoaded', function(){
 	console.log('lightbox script: DOMContentLoaded');
 	try{
